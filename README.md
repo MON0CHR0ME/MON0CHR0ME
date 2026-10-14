@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MON0CHR0ME/MON0CHR0ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+${\textsf{\color{#b0b0b0}it's too late for me to rage against the dying light.}}$
+<p align="center"><img src="https://file.garden/aeQzm8XBPAueDhxi/Untitled360_20261013222351.png" width="420" height="auto" align="center"></img></a> <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<details>
+  <summary>${\textsf{\color{#b0b0b0}want a free video game?}}$</summary>
+  
+ 
+  <sub>you greedy if you opened this for a free video game. sorry. there's none for you at the moment. this is still a work in progress. turn back. if you can. can you? can you ever turn back? does your name happen to be blake? do you happen to be in a mountain? do you so happen to be cold too?<sub>
+</details>
